@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  background: #bedcfa;
+}
+
+.demo {
+  background: #ffda77;
+  margin: 0;
+  width: 98%;
+  margin-left: 12px;
+  height: 360px;
+}
+
+p {
+  margin: 0;
+  padding: 50px;
+  color: #120078;
+}
+.maindiv{
+  background-color: black;
+  height: 400px;
+  width: 900px;
+}
+
+.container1 {
+  background: #120078;
+  width: 250px;
+  height: 160px;
+  position: relative;
+
+}
+
+.container2 {
+  background: green;
+  width: 250px;
+  height: 160px;
+  position: absolute;
+  /*left: 110px;*/
+   top: 520px;
+  left: 250px;
+
+
+}
+
+.container3 {
+  background: red;
+  width: 250px;
+  height: 160px;
+  top: 160px;
+ position: relative;
+left: 500px;
+}
